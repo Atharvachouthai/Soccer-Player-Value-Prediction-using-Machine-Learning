@@ -5,6 +5,7 @@ The Player Value Prediction project aims to create a predictive model that estim
 This project leverages multiple machine learning techniques to provide accurate valuation and insight into which attributes most heavily influence a player’s market value. It involves several stages, including data preprocessing, feature engineering, model training, and evaluation.
 
 Dataset information
+
 The dataset was scraped from Sofifa, a platform providing comprehensive player statistics and FIFA game ratings, which are instrumental in analyzing player attributes and values. By accurately predicting a player's value, this model can aid in financial and strategic decisions related to team composition, talent acquisition, and budgeting. The dataset includes player data scraped from Sofifa, containing rich attributes such as:
   1. Demographics: Age, nationality, position, experience, and skill traits.
   2. Performance Statistics: Goals, assists, match ratings, passing accuracy, and defensive contributions.
