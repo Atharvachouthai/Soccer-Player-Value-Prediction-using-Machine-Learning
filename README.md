@@ -12,6 +12,7 @@ The dataset was scraped from Sofifa, a platform providing comprehensive player s
   3. Market Influence Factors: Positional demand, overall ratings, and contract duration.
 
 Modeling Approach
+
 In this project I have implemented several models to capture the non-linear relationships in player valuation:
 
   1. Linear Regression – Provides interpretive coefficients.
